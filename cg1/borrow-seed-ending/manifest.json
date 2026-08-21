@@ -1,0 +1,25 @@
+{
+  "version": "cg4-borrow-seed-ending-v1",
+  "feature": "夏乔借种结局",
+  "basePath": "cg1/borrow-seed-ending",
+  "format": "webp",
+  "total": 14,
+  "story": [
+    { "file": "借种_101三人赴约.webp", "sha256": "0AF6F61B739B0CA771B488385F198B94681C19CCC04C31FE15F6BD27F61DE885" },
+    { "file": "借种_阳性结果.webp", "sha256": "74DF361B9057D3F48DFE1519504520DD323D1F8E1FE368DC56A929E59A9CDDFE" },
+    { "file": "借种_三人镜面合照.webp", "sha256": "1D2C94476832AD4F0E146EE7C2494326BC5BBA16BC5DB24D95ABC9BED6152221" },
+    { "file": "借种_三人产检.webp", "sha256": "D98175C0D3ECFB495C88A90278A333A9F2D1BB04B5A5F2220F79A1954F082C21" },
+    { "file": "借种_医院待产三人.webp", "sha256": "E20505F20BA6EA81E4A1A0A7015BEF2B0ED2C8C11C51C28FD546C9373EEE04BD" },
+    { "file": "借种_产后家庭合照.webp", "sha256": "B38B1F33DBB08B08198B2A5C113F8B868DA75B7C65DA3F8A8BCE5EEA1CE8C31E" },
+    { "file": "101_借种结局计划板.webp", "sha256": "CF01BE12F6F877C51821BAC389B3E5E095FCF4FB6799215D7AC45A039BE2483E" }
+  ],
+  "adultSequence": [
+    { "file": "借种_成人_正式入室.webp", "phase": "opening", "sha256": "982AFC0EF860AB7630E30AAD0A45DA6A41FB71CE81D86C5403A974F041C41CFF" },
+    { "file": "借种_成人_主动接受.webp", "phase": "light_contact", "sha256": "C09E223545161C90D7BE4469D2D2B9B735435D8159F7875A09DFB9B5CAC71748" },
+    { "file": "借种_成人_前戏.webp", "phase": "deep_foreplay", "sha256": "DED6E344CA94B2EC2BBEC02967A11708D7B4BD4BDE91E349FF3162CA8BB73347" },
+    { "file": "借种_成人_正面交合.webp", "phase": "active", "sha256": "EE6CDD6B6CF52EBAF3114FF77B695607913BE2F1EE0C829734618DF94DBDE7E2" },
+    { "file": "借种_成人_确定受孕收尾.webp", "phase": "aftermath", "sha256": "4DFA084E5EF1EA16508E433976759906B6D4A3B32F673B8D68E0700E3CFCB9AD" },
+    { "file": "借种_成人_事后照料.webp", "phase": "aftercare", "sha256": "46C6480BE4855B6DDE87747B665034CA30A2B614CB9371E07300412714B4F120" },
+    { "file": "借种_成人_回到客厅.webp", "phase": "closure", "sha256": "A3DED96DC51E689C538B1B8F4A28F30C7AF8B66F8FB1764B676CDE5BC2795873" }
+  ]
+}
